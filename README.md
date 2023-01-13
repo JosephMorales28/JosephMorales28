@@ -21,3 +21,10 @@ My other hobbies are watching TV, reading books, gym exercise, travels, playing 
 ![](https://github-profile-trophy.vercel.app/?username=JosephMorales28&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Most Programming Languages I use:
+<h4 align="center">Most used languages (by number of commits)</h4>
+<p align="center">
+	<a href="https://profile.codersrank.io/user/josephmorales28#Tech%20Skills">
+		<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=josephmorales28&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,Go,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=white">
+	</a>
+</p>
