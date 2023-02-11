@@ -28,3 +28,4 @@ My other hobbies are watching TV, reading books, gym exercise, travels, playing 
 		<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=josephmorales28&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,Go,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=white">
 	</a>
 </p>
+Renew
