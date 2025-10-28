@@ -20,5 +20,3 @@ My other hobbies are watching TV, reading books, gym exercise, travels, playing 
 ## 🏆 My GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=JosephMorales28&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![Joseph Morales GitHub stats](https://gh-stats-card.cyclic.app/api/JosephMorales28)](https://github.com/JosephMorales28)
