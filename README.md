@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+👋🏻;I'm+Joseph+Morales!+👦🏻;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-From Philippines. I have a basic knowledge in Photoshop,HTML5,CSS3,JavaScript,PHP,SQL, and Python. 
+From Philippines. I have a basic knowledge in Photoshop,HTML5,CSS3,JavaScript,PHP,SQL,Vue, and Python. 
 I love to create a web design,posters,banners,t-shirt printing and drawing. My goal is to improve and upgrade my skills.
 My other hobbies are watching TV, reading books, gym exercise, travels, playing online games like (Mobile Legends:Bang Bang, Call of Duty -Mobile, League of Legends).
 
